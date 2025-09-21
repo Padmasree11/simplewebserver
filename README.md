@@ -1,5 +1,5 @@
 # EX01 Developing a Simple Webserver
-## Date:`08.09.2025
+## Date:`16.09.2025
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the Device Specifications of your Laptop.
@@ -105,6 +105,6 @@ httpd.serve_forever()
 
 ## OUTPUT:
 ![alt text](image.png)
-![alt text](<Screenshot (2).png>)
+![alt text](result.jpg)
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
