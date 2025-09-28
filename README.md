@@ -46,7 +46,7 @@ content = """
     
     <body bgcolor="pink">
     
-        
+        <h1>DEVICE SPECIFICATION (P Padmasree)</h1>
         <table border="5" cellpadding="4" >
             <tr bgcolor="#87CEFA">
                 <th>s.no</th>
@@ -104,7 +104,7 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-![alt text](image.png)
-![alt text](result.jpg)
+![alt text](<Screenshot (8).png>)
+![alt text](<Screenshot (9).png>)
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
