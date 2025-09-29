@@ -1,6 +1,7 @@
 from http.server import HTTPServer, BaseHTTPRequestHandler
 content = """
 <!DOCTYPE html>
+<html>
 <head>
     <title>divide specification</title>
 </head>
